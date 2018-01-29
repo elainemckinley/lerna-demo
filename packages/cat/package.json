@@ -3,7 +3,7 @@
   "main": "./dist/index.bundle.js",
   "version": "1.0.0",
   "scripts": {
-    "build": "webpack",
+    "prepare": "webpack",
     "dev": "webpack --watch"
   },
   "dependencies": {
