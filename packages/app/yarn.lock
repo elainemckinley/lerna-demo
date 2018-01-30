@@ -1257,10 +1257,6 @@ caseless@~0.12.0:
   version "0.12.0"
   resolved "https://registry.yarnpkg.com/caseless/-/caseless-0.12.0.tgz#1b681c21ff84033c826543090689420d187151dc"
 
-cat@^0.2.0:
-  version "0.2.0"
-  resolved "https://registry.yarnpkg.com/cat/-/cat-0.2.0.tgz#fd850cda7d4162e6904f33b7fcf743b1243fd434"
-
 center-align@^0.1.1:
   version "0.1.3"
   resolved "https://registry.yarnpkg.com/center-align/-/center-align-0.1.3.tgz#aa0d32629b6ee972200411cbd4461c907bc2b7ad"
